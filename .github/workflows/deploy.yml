@@ -10,7 +10,7 @@ on:
 env:
   applicationfolder: Pictionary
   AWS_REGION: eu-west-1
-  S3BUCKET: githubactions-poc-webappdeploymentbucket-rmdkp340paig
+  S3BUCKET: github-pic-test-webappdeploymentbucket-9b96css3j1qo
 
 
 jobs:
